@@ -2,7 +2,7 @@
    <modelVersion>4.0.0</modelVersion>
    <groupId>org.apache.solr.extensions</groupId>
    <artifactId>solr-extensions-client</artifactId>
-   <version>0.1.0</version>
+   <version>0.1.1-SNAPSHOT</version>
    <packaging>jar</packaging>
 
    <prerequisites>
@@ -12,7 +12,7 @@
    <scm>
       <developerConnection>scm:git:git@github.com:shopping24/solr-extensions-client.git</developerConnection>
       <url>https://github.com/shopping24/solr-extensions-client.git</url>
-      <tag>v0.1.0</tag>
+      <tag>HEAD</tag>
    </scm>
    <issueManagement>
       <system>Github Issues</system>
